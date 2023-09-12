@@ -311,7 +311,6 @@ If you want to add a new translation, read this [document](./docs/translation.md
 [@piksonGit](https://github.com/piksonGit)
 
 ### Contributor
-
 [Contributors](https://github.com/Yidadaa/ChatGPT-Next-Web/graphs/contributors)
 
 ## LICENSE
